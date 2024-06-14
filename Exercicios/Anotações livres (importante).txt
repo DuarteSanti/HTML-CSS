@@ -1,0 +1,4 @@
+Anotações guanabara. 
+capitulo 8 Negrito e italico*
+- crtl + shifit + P p criar tags e p deixar italico ou negrito *
+
